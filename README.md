@@ -23,6 +23,7 @@ Control\data\globaldb\tweakables.xml
 
 ### Notes
 - Works for both DX11 and DX12 version as of 1.09 update
+- This is NOT a freecam, which means you cannot move the camera through objects (like going through walls)
 - In the included tweakables.xml, file, I also included the following 5 parameters for photomode with their default values in case you need to adjust them to your liking.
 ```
 <tweakable type="float1" name="Photo Mode Camera:Camera Mouse Rotation Speed (deg/s)" value="10.000000"/>
