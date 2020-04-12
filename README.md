@@ -1,5 +1,5 @@
 # Control
-photomode-range-unlocker
+Photomode Range Unlocker for Control by Remedy Entertainment
 
 ## Getting Started
 ### Prerequisites
