@@ -1,3 +1,5 @@
+by Fallbob
+
 To unlock the Astral Dive Suit open your DX11/DX12 executable with an hexadecimal editor (like "HxD")
 
 THESE EDITS ARE THE SAME FOR BOTH DX11/DX12 Executables.
